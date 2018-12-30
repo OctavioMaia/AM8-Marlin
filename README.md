@@ -27,7 +27,7 @@ Marlin 1.1.9 is the final release of the AVR-only flat version of Marlin Firmwar
 - E3D V6 (and clones) support.
 - BLTouch setup out of the box.
 - Custom acceleration and jerk settings for the AM8 and Titan setup.
-- Costum steps per mm for the Titan extruder.
+- Custom steps per mm for the Titan extruder.
 - RepRapDiscount Full Graphic Smart Controller support.
 - Thermal runaway protection enabled.
 - Much more.
